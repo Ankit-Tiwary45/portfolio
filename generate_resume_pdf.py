@@ -97,7 +97,7 @@ def create_resume(output_filename):
     # Summary
     add_section("Summary")
     summary_text = (
-        "B.Tech Computer Science student with a CGPA of <b>8.52</b> and strong knowledge of "
+        "B.Tech Computer Science student with a CGPA of <b>8.54</b> and strong knowledge of "
         "<b>Data Structures and Algorithms</b>, <b>Object-Oriented Programming</b>, <b>Database Management Systems</b>, "
         "and <b>Software Engineering fundamentals</b>. Proficient in <b>Java, C++, JavaScript Basics, SQL, HTML, CSS, React.js Basics, "
         "Node.js, and MongoDB</b>. Solved <b>300+ coding problems</b> and built full-stack web applications with a focus on problem solving, "
@@ -108,7 +108,7 @@ def create_resume(output_filename):
     # Education
     add_section("Education")
     story.append(Paragraph("<b>Lakshmi Narain College of Technology</b>, Bhopal, MP", subheading_style))
-    story.append(Paragraph("<i>Bachelor of Technology in Computer Science and Engineering</i> (2023 – 2027) &nbsp;|&nbsp; <b>CGPA: 8.52</b> (till 5th semester)", body_style))
+    story.append(Paragraph("<i>Bachelor of Technology in Computer Science and Engineering</i> (2023 – 2027) &nbsp;|&nbsp; <b>CGPA: 8.54</b> (till 5th semester)", body_style))
     story.append(Spacer(1, 3))
 
     story.append(Paragraph("<b>B.D. Public School</b>, Patna, Bihar", subheading_style))

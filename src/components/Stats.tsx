@@ -17,7 +17,7 @@ export default function Stats() {
   const statsData: StatItem[] = [
     {
       id: "cgpa",
-      value: "8.52",
+      value: "8.54",
       label: "B.Tech CGPA",
       sublabel: "LNCT, Bhopal (CSE 2023-2027)",
       bgColor: "bg-[#FFE767]",

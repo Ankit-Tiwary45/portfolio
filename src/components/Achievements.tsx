@@ -17,8 +17,8 @@ export default function Achievements() {
     {
       year: "2023–2027",
       title: "B.Tech Computer Science @ LNCT Bhopal",
-      description: "Consistent academic performance maintaining an 8.52 CGPA across engineering semesters.",
-      badge: "CGPA 8.52",
+      description: "Consistent academic performance maintaining an 8.54 CGPA across engineering semesters.",
+      badge: "CGPA 8.54",
       bgColor: "bg-[#FFE767]",
       rotation: "-rotate-2",
       icon: Award,

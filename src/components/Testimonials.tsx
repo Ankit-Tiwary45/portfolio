@@ -17,12 +17,12 @@ export default function Testimonials() {
     {
       id: "t-2",
       name: "Shivam Kumar",
-      role: "Friend • MIT, Bengaluru",
+      role: "Friend • Deloitte",
       content:
         "“He asks the right questions and takes ownership of his work. Ankit would be an asset to any development team.”",
       bgColor: "bg-[#8ECAE6]",
       rotation: "rotate-2",
-      badge: "Friend @ MIT",
+      badge: "Friend @ Deloitte",
     },
     {
       id: "t-3",
